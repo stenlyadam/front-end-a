@@ -1,2 +1,2 @@
 //Introduction to Github
-console.log("Introduction to GitHub");
+// Mandagi, Jitro Glenn Wilhelm Calveen
